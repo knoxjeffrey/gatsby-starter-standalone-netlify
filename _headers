@@ -1,3 +1,4 @@
+/*
+  Basic-Auth: login:password
 /static/*
   Cache-Control: "public, max-age=360000"
-  Basic-Auth: login:password
